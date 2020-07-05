@@ -1,0 +1,7 @@
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+.git
+packer_key.pub
+packer_key
+
